@@ -1,0 +1,29 @@
+[
+  {
+    "role": "IT Support Agent",
+    "organisation": "Elections Canada",
+    "startDate": "Oct, 2023",
+    "endDate": "Present",
+    "experiences": ["Provided IT support to Returning Officers", "Prepared regular reports detailing interactions"],
+    "imageSrc": "history/ec.jpeg"
+  },
+  {
+    "role": "Store Manager",
+    "organisation": "Bonjour Dollar",
+    "startDate": "July, 2016",
+    "endDate": "Oct, 2023",
+    "experiences": ["Resolved customer complaints", "Conducted staff training"],
+    "imageSrc": "history/dollar.png"
+  },
+  {
+    "role": "Game Developer Intern",
+    "organisation": "STEMWorld",
+    "startDate": "May, 2020",
+    "endDate": "Aug, 2020",
+    "experiences": [
+      "Designed games using Unity",
+      "Conducted testing and debugging"
+    ],
+    "imageSrc": "history/stem.png"
+  }
+]
