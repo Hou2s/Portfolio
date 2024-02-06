@@ -1,26 +1,18 @@
 [
   {
     "title": "Unity Game Project",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "imageSrc": "projects/unity.webp",
+    "description": "This is a project made using the Unity Software and C#.",
+    "skills": ["Unity", "C#", "OOP"],
+    "demo": "https://youtu.be/5rZUDS5T8H8",
+    "source": "https://github.com/Hou2s/RTS-Unity"
   },
   {
     "title": "Java Sudoku Project",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "imageSrc": "projects/java.png",
+    "description": "This is a project made with Java using Object Oriented Programming notions.",
+    "skills": ["Java", "OOP", "JFrame"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Hou2s/JavaSudoku"
   }
 ]
