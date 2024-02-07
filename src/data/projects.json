@@ -12,7 +12,7 @@
     "imageSrc": "projects/java.png",
     "description": "This is a project made with Java using Object Oriented Programming notions.",
     "skills": ["Java", "OOP", "JFrame"],
-    "demo": "https://www.example.com",
+    "demo": "https://raw.githubusercontent.com/Hou2s/Portfolio/main/assets/projects/java.png",
     "source": "https://github.com/Hou2s/JavaSudoku"
   }
 ]

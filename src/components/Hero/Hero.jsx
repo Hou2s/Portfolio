@@ -13,9 +13,14 @@ export const Hero = () => {
           with a strong foundation in full-stack development.
           Reach out if you'd like to learn more!
         </p>
-        <a href="mailto:houssein9@outlook.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
+        <div className={styles.buttonContainer}>
+          <a href="mailto:houssein9@outlook.com" className={styles.btn}>
+            Contact Me
+          </a>
+          <a href="https://hou2s.github.io/Portfolio/public/HousseinCV4.pdf" className={styles.btn} download>
+            Download CV 
+          </a>
+        </div>
       </div>
       <img
         src={getImageUrl("hero/houssein.png")}
