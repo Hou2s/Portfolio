@@ -1,10 +1,10 @@
 [
   {
-    "role": "IT Support Agent",
+    "role": "Field Support Network",
     "organisation": "Elections Canada",
-    "startDate": "Oct, 2023",
+    "startDate": "Sept, 2023",
     "endDate": "Present",
-    "experiences": ["Provided IT support to Returning Officers", "Prepared regular reports detailing interactions"],
+    "experiences": ["Provided general support to field staff", "Prepared regular reports detailing interactions"],
     "imageSrc": "history/ec.jpeg"
   },
   {
